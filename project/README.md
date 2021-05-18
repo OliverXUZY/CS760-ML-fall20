@@ -1,4 +1,4 @@
-# Machine learning
+# Machine Learning
 This is the final project of the Machine learning project CS760 in 2020 fall. 
 
 ## Introduction
@@ -18,6 +18,6 @@ We utilize the high accuracy from neural network along with the interpretation f
 ## Reference
 - [package mlxend](http://rasbt.github.io/mlxtend)
 - [pytorch](https://pytorch.org)
-- reference in report(https://github.com/OliverXUZY/CS760-ML-fall20/blob/master/project/760project.pdf)
+- [reference in report](https://github.com/OliverXUZY/CS760-ML-fall20/blob/master/project/760project.pdf)
 
 
