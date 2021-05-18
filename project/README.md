@@ -1,4 +1,4 @@
-# Yelp_NLP
+# Machine learning
 This is the final project of the Machine learning project CS760 in 2020 fall. 
 
 ## Introduction
