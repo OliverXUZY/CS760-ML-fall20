@@ -1,6 +1,8 @@
 # Machine Learning
 This is the final project of the Machine learning project CS760 in 2020 fall. 
 
+Please see this [link](http://pages.cs.wisc.edu/~zxu444/cs760/) to view code directly.
+
 ## Introduction
 We applied several machine learning methods on the scanned CT chest images to explore the. relationship between positiveness of COVID-19 and chest CT.
 We considered several competitive machine learning approaches, including Logistic Regression, K Nearest Neighbors, Naive Bayes, Decision Tree, Random Forest, Support Vector Machine and Convolutional Neural Network(CNN). We trained these models with raw image data and make predictions. We implemented the transfer learning on our own dataset. We used ResNet-101 architecture and personalized our own fully connection layer at the end. We froze the parameters in previous layers] only trained the personalized layers. In our result, we have SVM achieves the best performance with test accuracy 89%. The ResNet-101 has the second high test accuracy of 81.33%.
